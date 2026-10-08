@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T08:59:17+05:30",
+  "updated_at": "2026-10-08T16:21:50+05:30",
   "edition": "Automated daily refresh",
   "jobs": [
     {
@@ -630,11 +630,11 @@
     }
   ],
   "caveat": "Daily cloud updates begin only after GitHub Pages + Actions is set up. Applicants count means submitted applications, not open vacancies, and is normally undisclosed.",
-  "last_attempt_at": "2026-10-08T08:59:17+05:30",
+  "last_attempt_at": "2026-10-08T16:21:50+05:30",
   "sync_summary": {
     "source_success": 4,
     "source_total": 5,
-    "new_notices": 12,
-    "checked_at": "2026-10-08T08:59:17+05:30"
+    "new_notices": 0,
+    "checked_at": "2026-10-08T16:21:50+05:30"
   }
 }
