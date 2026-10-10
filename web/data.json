@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T16:17:00+05:30",
+  "updated_at": "2026-10-10T15:32:25+05:30",
   "edition": "Automated daily refresh",
   "jobs": [
     {
@@ -560,7 +560,7 @@
       "name": "Employment News",
       "url": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All",
       "coverage": "Auto extraction",
-      "status": "OK · 5 entries scanned"
+      "status": "OK · 4 entries scanned"
     },
     {
       "name": "C-DIT Kerala",
@@ -572,7 +572,7 @@
       "name": "Bank of Baroda",
       "url": "https://bankofbaroda.bank.in/career/current-opportunities",
       "coverage": "Notice link / watch",
-      "status": "OK · 1 entries scanned"
+      "status": "CHECK FAILED: HTTPSConnectionPool(host='bankofbaroda.bank.in', port=443): Max retries exceeded with url: /hi-in/ca"
     },
     {
       "name": "BEL",
@@ -630,11 +630,11 @@
     }
   ],
   "caveat": "Daily cloud updates begin only after GitHub Pages + Actions is set up. Applicants count means submitted applications, not open vacancies, and is normally undisclosed.",
-  "last_attempt_at": "2026-10-09T16:17:00+05:30",
+  "last_attempt_at": "2026-10-10T15:32:25+05:30",
   "sync_summary": {
-    "source_success": 4,
+    "source_success": 3,
     "source_total": 5,
     "new_notices": 0,
-    "checked_at": "2026-10-09T16:17:00+05:30"
+    "checked_at": "2026-10-10T15:32:25+05:30"
   }
 }
