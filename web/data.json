@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T13:48:23+05:30",
+  "updated_at": "2026-10-25T14:06:45+05:30",
   "edition": "Automated daily refresh",
   "jobs": [
     {
@@ -582,7 +582,7 @@
       "name": "Employment News",
       "url": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All",
       "coverage": "Auto extraction",
-      "status": "OK · 3 entries scanned"
+      "status": "CHECK FAILED: HTTPSConnectionPool(host='employmentnews.gov.in', port=443): Max retries exceeded with url: /newemp/"
     },
     {
       "name": "C-DIT Kerala",
@@ -652,11 +652,11 @@
     }
   ],
   "caveat": "Daily cloud updates begin only after GitHub Pages + Actions is set up. Applicants count means submitted applications, not open vacancies, and is normally undisclosed.",
-  "last_attempt_at": "2026-10-24T13:48:23+05:30",
+  "last_attempt_at": "2026-10-25T14:06:45+05:30",
   "sync_summary": {
-    "source_success": 4,
+    "source_success": 3,
     "source_total": 5,
     "new_notices": 0,
-    "checked_at": "2026-10-24T13:48:23+05:30"
+    "checked_at": "2026-10-25T14:06:45+05:30"
   }
 }
