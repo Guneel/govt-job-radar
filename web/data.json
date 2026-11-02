@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T16:11:44+05:30",
+  "updated_at": "2026-11-02T17:00:43+05:30",
   "edition": "Automated daily refresh",
   "jobs": [
     {
@@ -551,6 +551,50 @@
       "evidence": "Ministry of Information & Broadcasting – Employment News; method: Recruitment",
       "source_board": "National Board Of Examinations In Medical Sciences",
       "last_verified": null
+    },
+    {
+      "id": "en-sainik-school-nagrota-sainik-schools-society-ministry-of-defence-tgt-computer-science-others",
+      "org": "Sainik School Nagrota, Sainik Schools Society, Ministry Of Defence",
+      "title": "Tgt (Computer Science) & Others",
+      "location": "Pan India / see notice",
+      "deadline": "2026-11-21",
+      "vacancies": null,
+      "applicant_count": null,
+      "salary_monthly": null,
+      "source_url": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All",
+      "apply_url": null,
+      "posted_date": "2026-11-02",
+      "category": "Central Government",
+      "fit": 50,
+      "summary": "Employment News classified listing. Opening status uses the published last date; read the employer advertisement to verify eligibility, post allocation and how to apply.",
+      "status": "Open",
+      "obc_vacancies": null,
+      "selection": "See full notice",
+      "evidence": "Ministry of Information & Broadcasting – Employment News; method: Recruitment",
+      "source_board": "Sainik School Nagrota, Sainik Schools Society, Ministry Of Defence",
+      "last_verified": null
+    },
+    {
+      "id": "en-institute-of-hotel-management-and-catering-technology-ministry-of-tourism-lower-division-cle",
+      "org": "Institute Of Hotel Management And Catering Technology, Ministry Of Tourism",
+      "title": "Lower Division Clerk",
+      "location": "Pan India / see notice",
+      "deadline": "2026-11-30",
+      "vacancies": null,
+      "applicant_count": null,
+      "salary_monthly": null,
+      "source_url": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All",
+      "apply_url": null,
+      "posted_date": "2026-11-02",
+      "category": "Central Government",
+      "fit": 50,
+      "summary": "Employment News classified listing. Opening status uses the published last date; read the employer advertisement to verify eligibility, post allocation and how to apply.",
+      "status": "Open",
+      "obc_vacancies": null,
+      "selection": "See full notice",
+      "evidence": "Ministry of Information & Broadcasting – Employment News; method: Recruitment",
+      "source_board": "Institute Of Hotel Management And Catering Technology, Ministry Of Tourism",
+      "last_verified": null
     }
   ],
   "sources": [
@@ -582,13 +626,13 @@
       "name": "Employment News",
       "url": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All",
       "coverage": "Auto extraction",
-      "status": "OK · 2 entries scanned"
+      "status": "OK · 4 entries scanned"
     },
     {
       "name": "C-DIT Kerala",
       "url": "https://cdit.kerala.gov.in/?page_id=2388",
       "coverage": "Auto extraction",
-      "status": "OK · 4 entries scanned"
+      "status": "OK · 2 entries scanned"
     },
     {
       "name": "Bank of Baroda",
@@ -652,11 +696,11 @@
     }
   ],
   "caveat": "Daily cloud updates begin only after GitHub Pages + Actions is set up. Applicants count means submitted applications, not open vacancies, and is normally undisclosed.",
-  "last_attempt_at": "2026-11-01T16:11:44+05:30",
+  "last_attempt_at": "2026-11-02T17:00:43+05:30",
   "sync_summary": {
     "source_success": 4,
     "source_total": 5,
-    "new_notices": 0,
-    "checked_at": "2026-11-01T16:11:44+05:30"
+    "new_notices": 2,
+    "checked_at": "2026-11-02T17:00:43+05:30"
   }
 }
