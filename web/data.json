@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T16:47:33+05:30",
+  "updated_at": "2026-11-06T16:44:33+05:30",
   "edition": "Automated daily refresh",
   "jobs": [
     {
@@ -682,7 +682,7 @@
       "name": "Bank of Baroda",
       "url": "https://bankofbaroda.bank.in/career/current-opportunities",
       "coverage": "Notice link / watch",
-      "status": "CHECK FAILED: HTTPSConnectionPool(host='bankofbaroda.bank.in', port=443): Max retries exceeded with url: /hi-in/ca"
+      "status": "OK · 1 entries scanned"
     },
     {
       "name": "BEL",
@@ -740,11 +740,11 @@
     }
   ],
   "caveat": "Daily cloud updates begin only after GitHub Pages + Actions is set up. Applicants count means submitted applications, not open vacancies, and is normally undisclosed.",
-  "last_attempt_at": "2026-11-05T16:47:33+05:30",
+  "last_attempt_at": "2026-11-06T16:44:33+05:30",
   "sync_summary": {
-    "source_success": 3,
+    "source_success": 4,
     "source_total": 5,
     "new_notices": 0,
-    "checked_at": "2026-11-05T16:47:33+05:30"
+    "checked_at": "2026-11-06T16:44:33+05:30"
   }
 }
