@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T16:47:04+05:30",
+  "updated_at": "2026-11-12T17:05:46+05:30",
   "edition": "Automated daily refresh",
   "jobs": [
     {
@@ -619,6 +619,28 @@
       "last_verified": null
     },
     {
+      "id": "cdit-notification-no-c-dit-hr1-22-2026-dated-12-11-2026-project-staff-require",
+      "org": "C-DIT Kerala",
+      "title": "Project Staff Required Accounts Assistant",
+      "location": "See notice",
+      "deadline": "2026-11-26",
+      "vacancies": null,
+      "applicant_count": null,
+      "salary_monthly": null,
+      "source_url": "https://cdit.kerala.gov.in/?p=7996",
+      "apply_url": "https://careers.cdit.org/",
+      "posted_date": "2026-11-12",
+      "category": "State Government Institution",
+      "fit": 50,
+      "summary": "New notice detected by an automated scan. Review the employer advertisement for position-wise requirements, location, salary and corrected deadlines.",
+      "status": "Open",
+      "obc_vacancies": null,
+      "selection": "See full notice",
+      "evidence": "C-DIT board; details pending review",
+      "source_board": "C-DIT Kerala",
+      "last_verified": null
+    },
+    {
       "id": "en-institute-of-hotel-management-and-catering-technology-ministry-of-tourism-lower-division-cle",
       "org": "Institute Of Hotel Management And Catering Technology, Ministry Of Tourism",
       "title": "Lower Division Clerk",
@@ -676,13 +698,13 @@
       "name": "C-DIT Kerala",
       "url": "https://cdit.kerala.gov.in/?page_id=2388",
       "coverage": "Auto extraction",
-      "status": "OK · 2 entries scanned"
+      "status": "OK · 3 entries scanned"
     },
     {
       "name": "Bank of Baroda",
       "url": "https://bankofbaroda.bank.in/career/current-opportunities",
       "coverage": "Notice link / watch",
-      "status": "CHECK FAILED: HTTPSConnectionPool(host='bankofbaroda.bank.in', port=443): Max retries exceeded with url: /hi-in/ca"
+      "status": "OK · 1 entries scanned"
     },
     {
       "name": "BEL",
@@ -740,11 +762,11 @@
     }
   ],
   "caveat": "Daily cloud updates begin only after GitHub Pages + Actions is set up. Applicants count means submitted applications, not open vacancies, and is normally undisclosed.",
-  "last_attempt_at": "2026-11-11T16:47:04+05:30",
+  "last_attempt_at": "2026-11-12T17:05:46+05:30",
   "sync_summary": {
-    "source_success": 3,
+    "source_success": 4,
     "source_total": 5,
-    "new_notices": 0,
-    "checked_at": "2026-11-11T16:47:04+05:30"
+    "new_notices": 1,
+    "checked_at": "2026-11-12T17:05:46+05:30"
   }
 }
