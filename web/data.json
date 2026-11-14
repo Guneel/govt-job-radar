@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T16:50:25+05:30",
+  "updated_at": "2026-11-14T16:14:19+05:30",
   "edition": "Automated daily refresh",
   "jobs": [
     {
@@ -698,7 +698,7 @@
       "name": "C-DIT Kerala",
       "url": "https://cdit.kerala.gov.in/?page_id=2388",
       "coverage": "Auto extraction",
-      "status": "OK · 3 entries scanned"
+      "status": "OK · 2 entries scanned"
     },
     {
       "name": "Bank of Baroda",
@@ -762,11 +762,11 @@
     }
   ],
   "caveat": "Daily cloud updates begin only after GitHub Pages + Actions is set up. Applicants count means submitted applications, not open vacancies, and is normally undisclosed.",
-  "last_attempt_at": "2026-11-13T16:50:25+05:30",
+  "last_attempt_at": "2026-11-14T16:14:19+05:30",
   "sync_summary": {
     "source_success": 4,
     "source_total": 5,
     "new_notices": 0,
-    "checked_at": "2026-11-13T16:50:25+05:30"
+    "checked_at": "2026-11-14T16:14:19+05:30"
   }
 }
